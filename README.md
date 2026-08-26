@@ -142,7 +142,7 @@ To Be Continued...
 </div>
 
 ---
-
+<!--
 ## 🐉 Current Quest
 
 ```yaml
@@ -174,7 +174,7 @@ Motto:
 
 <div align="center">
     
-<!--
+
 ## ⚡ SYSTEM STATUS
 
 ```text
