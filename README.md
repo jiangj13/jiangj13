@@ -14,7 +14,8 @@
 
 ## 🌌 About Me
 
-
+<!--
+注释掉
 ```python
 class Jiang:
     identity  = "Ph.D. Student"
@@ -28,6 +29,8 @@ class Jiang:
     status    = "Exploring the unknown..."
 
 ```
+-->
+
 
 - 🎓 Ph.D. Student
 - 🔐 Researching **Encrypted Traffic Analysis**
