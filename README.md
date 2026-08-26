@@ -55,6 +55,9 @@ class Jiang:
 
 ---
 
+<!--
+注释掉了
+
 ## 🧬 Research Interests
 
 <div align="center">
@@ -71,6 +74,8 @@ class Jiang:
 </div>
 
 ---
+-->
+
 
 <!--
 注释掉了
@@ -168,7 +173,8 @@ Motto:
 ---
 
 <div align="center">
-
+    
+<!--
 ## ⚡ SYSTEM STATUS
 
 ```text
@@ -187,7 +193,7 @@ $ ./researcher.exe
  PAPER      : COMING SOON
 --------------------------------
 ```
-
+-->
 <br>
 
 ### 👾 TO BE CONTINUED...
