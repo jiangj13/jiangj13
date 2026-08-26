@@ -103,7 +103,7 @@ class Jiang:
 
 <br><br>
 
-```text
+<pre>
 ╔══════════════════════════════════════════════════════╗
 ║                  RESEARCH QUEST LOG                  ║
 ╠══════════════════════════════════════════════════════╣
@@ -119,13 +119,13 @@ class Jiang:
 ║  Next Chapter   : TO BE CONTINUED...                ║
 ║                                                      ║
 ╚══════════════════════════════════════════════════════╝
-
+</pre>
 
 ### 「未完待续」
 
 <sub>Research never ends. It only respawns.</sub>
+
 </div>
-```
 
 
 ---
