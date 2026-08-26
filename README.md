@@ -119,14 +119,14 @@ class Jiang:
 ║  Next Chapter   : TO BE CONTINUED...                ║
 ║                                                      ║
 ╚══════════════════════════════════════════════════════╝
-
+</div>
+```
 
 ### 「未完待续」
 
 <sub>Research never ends. It only respawns.</sub>
 
-</div>
-```
+
 
 ---
 
