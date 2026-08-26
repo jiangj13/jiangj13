@@ -90,7 +90,7 @@ class Jiang:
 ---
 -->
 
-```md
+
 ## 📜 Papers
 
 <div align="center">
@@ -119,7 +119,7 @@ class Jiang:
 ║  Next Chapter   : TO BE CONTINUED...                ║
 ║                                                      ║
 ╚══════════════════════════════════════════════════════╝
-```
+
 
 ### 「未完待续」
 
