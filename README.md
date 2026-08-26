@@ -90,25 +90,43 @@ class Jiang:
 ---
 -->
 
+```md
 ## 📜 Papers
 
 <div align="center">
 
-### 🚧 Coming Soon...
+### 🧪 Research Log
+
+<img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-yellow?style=for-the-badge">
+<img src="https://img.shields.io/badge/PAPERS-COMING%20SOON-blueviolet?style=for-the-badge">
+<img src="https://img.shields.io/badge/MODE-RESEARCHING-2ea44f?style=for-the-badge">
+
+<br><br>
 
 ```text
-[████████░░░░░░░░░░░░] Research in Progress...
-
-> Loading papers...
-> Loading ideas...
-> Loading experiments...
-
-To Be Continued...
+╔══════════════════════════════════════════════════════╗
+║                  RESEARCH QUEST LOG                  ║
+╠══════════════════════════════════════════════════════╣
+║                                                      ║
+║  [██████████████░░░░░░]  Research in Progress...    ║
+║                                                      ║
+║  [✓] Exploring ideas                                ║
+║  [✓] Running experiments                            ║
+║  [>] Writing papers                                 ║
+║  [ ] Publishing                                     ║
+║                                                      ║
+║  Current Status : COMING SOON                       ║
+║  Next Chapter   : TO BE CONTINUED...                ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
 ```
 
-### 「 未完待续 」
+### 「未完待续」
+
+<sub>Research never ends. It only respawns.</sub>
 
 </div>
+```
 
 ---
 
