@@ -14,26 +14,19 @@
 
 ## 🌌 About Me
 
+
 ```python
 class Jiang:
+    identity  = "Ph.D. Student"
 
-    def __init__(self):
-        self.identity = "Ph.D. Student"
+    research  = ["Encrypted Traffic Analysis",
+                 "Network Security",
+                 "Machine Learning"]
 
-        self.research = [
-            "Encrypted Traffic Analysis",
-            "Network Security",
-            "Machine Learning"
-        ]
+    hobbies   = ["🏸 Badminton", "🎮 Gaming", "🏊 Swimming"]
 
-        self.interests = [
-            "🏸 Badminton",
-            "🎮 Gaming",
-            "🏊 Swimming"
-        ]
+    status    = "Exploring the unknown..."
 
-    def current_status(self):
-        return "Exploring the unknown..."
 ```
 
 - 🎓 Ph.D. Student
