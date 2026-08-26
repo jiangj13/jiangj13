@@ -69,7 +69,9 @@ class Jiang:
 
 ---
 
-## 🏆 GitHub Trophy
+<!--
+注释掉了
+-## 🏆 GitHub Trophy
 
 <div align="center">
 
@@ -78,6 +80,7 @@ class Jiang:
 </div>
 
 ---
+-->
 
 ## 📜 Papers
 
