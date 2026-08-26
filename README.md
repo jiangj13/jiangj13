@@ -194,6 +194,7 @@ $ ./researcher.exe
 --------------------------------
 ```
 -->
+<div align="center">
 <br>
 
 ### 👾 TO BE CONTINUED...
